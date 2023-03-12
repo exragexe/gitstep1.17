@@ -1,0 +1,20 @@
+# ninja log v5
+37	1191	7003089707566497	CMakeFiles/gitstep1_17.dir/Main/main.cpp.obj	4bab4abd5654b270
+31	1196	7003089707566497	CMakeFiles/gitstep1_17.dir/Core/WashingMachine/Washing.cpp.obj	b847a6f2c41b6620
+1	1199	7003089707626339	CMakeFiles/gitstep1_17.dir/Core/WashingMachineProvider/WashingProvider.cpp.obj	dc832c68dc4c596a
+1200	1665	7003089712258438	gitstep1_17.exe	17964221503c37c8
+3	826	7003092091227507	CMakeFiles/gitstep1_17.dir/Main/main.cpp.obj	4bab4abd5654b270
+827	1038	7003092093300370	gitstep1_17.exe	17964221503c37c8
+3	890	7003095179866588	CMakeFiles/gitstep1_17.dir/Main/main.cpp.obj	4bab4abd5654b270
+891	1125	7003095182211923	gitstep1_17.exe	17964221503c37c8
+3	862	7003096084182302	CMakeFiles/gitstep1_17.dir/Main/main.cpp.obj	4bab4abd5654b270
+862	1075	7003096086265234	gitstep1_17.exe	17964221503c37c8
+4	838	7003096410046262	CMakeFiles/gitstep1_17.dir/Main/main.cpp.obj	4bab4abd5654b270
+839	1042	7003096412034906	gitstep1_17.exe	17964221503c37c8
+3	784	7003147227085598	CMakeFiles/gitstep1_17.dir/Main/main.cpp.obj	4bab4abd5654b270
+784	965	7003147228862638	gitstep1_17.exe	17964221503c37c8
+25	799	7003149090987484	CMakeFiles/gitstep1_17.dir/Main/main.cpp.obj	4bab4abd5654b270
+3	811	7003149091107136	CMakeFiles/gitstep1_17.dir/Core/WashingMachine/Washing.cpp.obj	b847a6f2c41b6620
+811	997	7003149092932699	gitstep1_17.exe	17964221503c37c8
+5	800	7003150483477560	CMakeFiles/gitstep1_17.dir/Main/main.cpp.obj	4bab4abd5654b270
+801	979	7003150485232864	gitstep1_17.exe	17964221503c37c8

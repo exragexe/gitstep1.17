@@ -1,0 +1,3 @@
+C:/Users/yaros/CLionProjects/gitstep1.17/cmake-build-debug/CMakeFiles/gitstep1_17.dir
+C:/Users/yaros/CLionProjects/gitstep1.17/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yaros/CLionProjects/gitstep1.17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
