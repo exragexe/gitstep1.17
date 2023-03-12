@@ -1,10 +1,10 @@
 
-#include "WashingProvider.h"
+#include "PraskaProvider.h"
 int main(){
-    WashingProvider* washing_provider =new WashingProvider();
+    PraskaProvider* praska_provider =new PraskaProvider();
     IdProvider id;
-    WashMash* washMash = new WashMash(id,"LG","gray",50,70,100,1000,1000,30);
-    washing_provider->PrintWashMash(washMash);
+    Praska* praska = new Praska(id,"Samsung","red","RX1070",75,230,1000,"Yes");
+    praska_provider->PrintPraska(praska);
     id.incId();
 
     return 0;
