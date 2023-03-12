@@ -1,10 +1,10 @@
 
-#include "WashingProvider.h"
+#include "BoilerProvider.h"
 int main(){
-    WashingProvider* washing_provider =new WashingProvider();
+    BoilerProvider* boiler_provider =new BoilerProvider();
     IdProvider id;
-    WashMash* washMash = new WashMash(id,"LG","gray",50,70,100,1000,1000,30);
-    washing_provider->PrintWashMash(washMash);
+    Boiler* boiler = new Boiler(id,"EIW","blue",50,60,1100);
+    boiler_provider->PrintBoiler(boiler);
     id.incId();
 
     return 0;
